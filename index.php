@@ -132,7 +132,7 @@
  */
 
 
-DEFINE('ERROR_REPORTING', 'development');
+DEFINE('ERROR_REPORTING', 'production');
 
 /*
  *---------------------------------------------------------------
